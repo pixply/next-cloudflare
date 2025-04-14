@@ -9,6 +9,9 @@
     "lint": "next lint",
     "pages:build": "npx @cloudflare/next-on-pages"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "dependencies": {
     "next": "15.3.0",
     "react": "^19.0.0",
